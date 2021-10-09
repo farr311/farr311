@@ -7,7 +7,7 @@ My name is Din and I am a full-time PHP developer at Internet-expert.ru with Lar
 I have several years of commerical Lua (also mostly Corona/Solar) development experience at various startups, both game and app oriented. I have developed two modest sized frameworks (plus the one I mentioned earlier). Those were used to drammatically simplify the development process of the end products one of which was the visual novel and the other used my vast custom made UI component library + a scene manager. 
 I'm also starting to do a lot of coding in Java building RESTful Spring backends for my projects. I have some experinece in native Android having worked on apps in both Java and Kotlin using such technologies as Room, Hilt, Material UI and Retrofit. 
 
-#Achievements
+## Achievements
 - Developed Solar Engine framework. Even though the state of it is trully frightening (lots of poor quality code from the days of yore + almost no documentation), but it still performs excellently
 - Developed a Lua OOP implementation (not the firs, not the fastest but the truest of them all in terms of modern OOP languages)
 - Developed a vast library of various simple and intermidate complexity UI components fro Solar2d
